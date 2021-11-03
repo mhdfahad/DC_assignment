@@ -1,7 +1,13 @@
-**<u>Name</u>** : Mohammed Fahad 
-<u>**BITS ID**</u>             : 2021MT12151
-<u>**Subject Name**</u>: Distributed Computing
-<u>**Subject Code**</u>  : SSZG526
+​					                         
+
+​                                                                 						  **<u>Name</u>**              : Mohammed Fahad
+
+​											                           <u>**BITS ID**</u>             : 2021MT121%1
+
+​														   <u>**Subject Name**</u>: Distributed Computing
+
+​                      											     <u>**Subject Code**</u>  : SSZG526
+
 
 
 
@@ -99,19 +105,21 @@ java RA_Main 2 2
 
 ## Result Snapshots
 
+
 Node 0 is trying to execute 2 times
 
-![RA_Main_0_2.jpeg](https://github.com/FaizalSandanampusi/fai/blob/master/Images/RA_Main_0_2.jpeg?raw=true)
+![main_0_1](https://user-images.githubusercontent.com/36969182/140068948-fd8cd5bf-b689-4390-9eef-5d4970df3af7.png)
 
 
 
 Node 1 executes 2 times
+![main_1_1](https://user-images.githubusercontent.com/36969182/140069162-153f8136-64b1-49a3-ab2f-4ec5638481c6.png)
 
-![RA_Main_1_2.jpeg](https://github.com/FaizalSandanampusi/fai/blob/master/Images/RA_Main_1_2.jpeg?raw=true)
-
+ 
 Node 2 executes 2 times
 
-![RA_Main_2_2.jpeg](https://github.com/FaizalSandanampusi/fai/blob/master/Images/RA_Main_2_2.jpeg?raw=true)
+![main_2_2](https://user-images.githubusercontent.com/36969182/140069199-d9508b3d-16cd-42ba-a3fb-51414f7898d5.png)
+
 
 
 
