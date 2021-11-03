@@ -67,7 +67,7 @@ Ricart-Agrawala algorithm assumes the communication channels are FIFO. The algor
 
 The algorithm is implemented in java programming language. The requirements for implementation are:
 
-* **Operating System**: Ubuntu 16.04
+* **Operating System**: Linux Mint 20.2
 * **Programming language**:  Java
 * **Java Version**: 1.8.0_161
 * **Java SE Runtime Environment**: 1.8.0_161-b12
